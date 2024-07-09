@@ -2,7 +2,7 @@
   "name": "your-app-name",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://<SUNNY-kauhsik>.github.io/<22071a0526git>",
+  "homepage": "https://SUNNY-kauhsik.github.io/22071a0526git/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
